@@ -1,0 +1,12 @@
+
+INSERT() METHOD
+[2]
+[309]
+[2]
+[300]
+
+REMOVEMIN() METHOD
+[344]
+[1]
+[673]
+[0]
