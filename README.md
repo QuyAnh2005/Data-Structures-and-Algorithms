@@ -47,7 +47,7 @@ Các thuật toán sắp xếp:
 [7. Binary Search Tree](https://github.com/QuyAnh2005/Data-Structures-and-Algorithms/tree/main/7%20-%20Binary%20Search%20Tree)
 - Thuật toán tìm kiếm
 - Cây nhị phân tìm kiếm
-- Cây cân bằng 
+- Cây cân bằng (AVL Tree)
 
 [8. Graph](https://github.com/QuyAnh2005/Data-Structures-and-Algorithms/tree/main/8%20-%20Graph) 
 
