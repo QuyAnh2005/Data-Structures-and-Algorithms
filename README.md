@@ -10,10 +10,11 @@ Nội dung của repo này được xây dựng dựa trên:
 - Sinh viên thực hiện: [Đặng Quý Anh - K64 Toán tin ứng dụng](https://www.facebook.com/anh.q.dang.5) 
 
 ## Nội dung
-### 1. Java review 
+[1. Java review](https://github.com/QuyAnh2005/Data-Structures-and-Algorithms/tree/main/1%20-%20Java%20Review)
 - Ôn lại một số kiến thức cơ bản về Java
 
-### 2. Sorting
+[2. Sorting](https://github.com/QuyAnh2005/Data-Structures-and-Algorithms/tree/main/2%20-%20Sorting)
+
 Các thuật toán sắp xếp:
 - Sắp xếp nổi bọt (Bubble Sort)
 - Sắp xếp chọn (Selection Sort)
@@ -22,33 +23,33 @@ Các thuật toán sắp xếp:
 - Sắp xếp nhanh (Quick Sort)
 - Sắp xếp vun đống (Heap Sort)
 
-### 3. Abstract Data Type and List ADT
+[3. Abstract Data Type and List ADT](https://github.com/QuyAnh2005/Data-Structures-and-Algorithms/tree/main/3%20-%20Abstract%20Data%20Type%20and%20List%20ADT)
 - Kiểu dữ liệu trừu tượng 
 - Kiểu anh sách (List ADT):
   - Dùng mảng (Array) 
   - Dùng danh sách liên kết đơn (Linked List)
 
-### 4. Stack and Queue 
+[4. Stack and Queue](https://github.com/QuyAnh2005/Data-Structures-and-Algorithms/tree/main/4%20-%20Stack%20and%20Queue) 
 - Stack 
 - Queue
 - Xây dựng ứng dụng có sử dụng Stack và Queue
 
-### 5. Tree 
+[5. Tree](https://github.com/QuyAnh2005/Data-Structures-and-Algorithms/tree/main/5%20-%20Tree%20ADT)
 - Kiểu dữ liệu cây (Tree ADT)
 - Cây nhị phân (Binary Tree)
 - Ứng dụng cây nhị phân
 
-### 6. Priority Queue
+[6. Priority Queue](https://github.com/QuyAnh2005/Data-Structures-and-Algorithms/tree/main/6%20-%20Priority%20Queue)
 - Kiểu hàng đợi ưu tiên (Priority Queue ADT)
 - Kiểu đống (Heap ADT)
 - Ứng dụng: Heap Sort
 
-### 7. Binary Search Tree 
+[7. Binary Search Tree](https://github.com/QuyAnh2005/Data-Structures-and-Algorithms/tree/main/7%20-%20Binary%20Search%20Tree)
 - Thuật toán tìm kiếm
 - Cây nhị phân tìm kiếm
 - Cây cân bằng 
 
-### 8. Graph 
+[8. Graph]() 
 
 *Updating ...*
 
@@ -67,7 +68,7 @@ git clone https://github.com/QuyAnh2005/Data-Structures-and-Algorithms.git
 - `4 - Stack and Queue` -> `StackAndQueue`  
 -  ...
 
-Với các folder còn lại, cũng thay đổi tương tự.
+Với các folder còn lại, cũng thay đổi tương tự. Sau khi các folder đã được đổi tên thì bạn mở trình biên dịch java, import các folder vừa xong như package và chạy chương trình. 
 
 
 ## Tài liệu tham khảo 
