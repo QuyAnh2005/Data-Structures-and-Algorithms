@@ -60,6 +60,7 @@ Các thuật toán sắp xếp:
 ```
 git clone https://github.com/QuyAnh2005/Data-Structures-and-Algorithms.git
 ```
+
 Để bạn đọc dễ dàng theo dõi nội dung thì khi upload lên github, mình đã thay đổi tên các package cho phù hợp. Vì thế, sau khi clone về, bạn cần đổi lại tên folder cho giống với tên package chứa trong file tương ứng của folder đó bằng cách xóa hết dấu cách, số và kí tự '-' có trong tên. Dưới đây là ví dụ:
 
 - `1 - JavaReview` -> `JavaReview` 
