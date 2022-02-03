@@ -25,7 +25,7 @@ Các thuật toán sắp xếp:
 
 [3. Abstract Data Type and List ADT](https://github.com/QuyAnh2005/Data-Structures-and-Algorithms/tree/main/3%20-%20Abstract%20Data%20Type%20and%20List%20ADT)
 - Kiểu dữ liệu trừu tượng 
-- Kiểu anh sách (List ADT):
+- Kiểu danh sách (List ADT):
   - Dùng mảng (Array) 
   - Dùng danh sách liên kết đơn (Linked List)
 
